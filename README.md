@@ -3,12 +3,13 @@
 Este es el repositorio del grupo X, cuyos integrantes son: 
 
 - Agustín López. - Rol: 202130549-1
-- Francisco Zuñiga. - Rol: 
+- Francisco Zuñiga. - Rol: 202130514-9
 - Francisco Castillo. - Rol:  
 
 ## Wiki 
 
 Puedes acceder a la Wiki mediante el siguiente [enlace](https://github.com/lopezleg123/anlisis1/wiki)
+
 
 ## Videos 
 
